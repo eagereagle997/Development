@@ -1,0 +1,122 @@
+[
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "releasedate": 1977,
+      "imdbrating": 8.5,
+      "movielength": 105,
+      "trilogy": "original",
+      "filmtype": "live-action",
+      "parentalrating": "PG",
+      "image": "images/starWars4.jpg"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "releasedate": 1980,
+        "imdbrating": 8.7,
+        "movielength": 124,
+        "trilogy": "original",
+        "filmtype": "live-action",
+        "parentalrating": "PG",
+        "image": "images/starWars5.jpg"
+      },
+      {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "releasedate": 1983,
+        "imdbrating": 8.3,
+        "movielength": 131,
+        "trilogy": "original",
+        "filmtype": "live-action",
+        "parentalrating": "PG",
+        "image": "images/starWars6.jpg"
+      },
+      {
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "releasedate": 1999,
+        "imdbrating": 6.9,
+        "movielength": 136,
+        "trilogy": "prequel",
+        "filmtype": "live-action",
+        "parentalrating": "PG",
+        "image": "images/starWars1.jpg"
+      },
+      {
+        "title": "Star Wars: Episode II - Attack of the Clones",
+        "releasedate": 2002,
+        "imdbrating": 6.6,
+        "movielength": 120,
+        "trilogy": "prequel",
+        "filmtype": "live-action",
+        "parentalrating": "PG",
+        "image": "images/starWars2.jpg"
+      },
+      {
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "releasedate": 2005,
+        "imdbrating": 7.6,
+        "movielength": 140,
+        "trilogy": "prequel",
+        "filmtype": "live-action",
+        "parentalrating": "PG13",
+        "image": "images/starWars3.jpg"
+      },
+      {
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "releasedate": 2015,
+        "imdbrating": 5.5,
+        "movielength": 136,
+        "trilogy": "sequel",
+        "filmtype": "live-action",
+        "parentalrating": "PG13",
+        "image": "images/starWars7.jpg"
+      },
+      {
+        "title": "Star Wars: Episode VIII - The Last Jedi",
+        "releasedate": 2017,
+        "imdbrating": 4.1,
+        "movielength": 152,
+        "trilogy": "sequel",
+        "filmtype": "live-action",
+        "parentalrating": "PG13",
+        "image": "images/starWars8.jpg"
+      },
+      {
+        "title": "Star Wars: Episode IX - The Rise of Skywalker",
+        "releasedate": 2019,
+        "imdbrating": 6.5,
+        "movielength": 142,
+        "trilogy": "sequel",
+        "filmtype": "live-action",
+        "parentalrating": "PG13",
+        "image": "images/starWars9.jpg"
+      },
+      {
+        "title": "Rogue One: A Star Wars Story",
+        "releasedate": 2016,
+        "imdbrating": 7.8,
+        "movielength": 133,
+        "trilogy": "other",
+        "filmtype": "live-action",
+        "parentalrating": "PG13",
+        "image": "images/rogueOne.jpg"
+      },
+      {
+        "title": "Solo: A Star Wars Story",
+        "releasedate": 2018,
+        "imdbrating": 6.5,
+        "movielength": 135,
+        "trilogy": "other",
+        "filmtype": "live-action",
+        "parentalrating": "PG13",
+        "image": "images/solo.jpeg"
+      },
+      {
+        "title": "Star Wars: The Clone Wars",
+        "releasedate": 2008,
+        "imdbrating": 5.9,
+        "movielength": 98,
+        "trilogy": "other",
+        "filmtype": "animated",
+        "parentalrating": "PG",
+        "image": "images/cloneWars.jpg"
+      }
+]

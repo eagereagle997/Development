@@ -36,3 +36,103 @@
     transform: rotate(360deg);
   }
 }
+
+.topBar {
+  margin-right: 20%;
+  position: fixed; 
+  background-color: white;
+  width: 80%;
+  height: 150px
+}
+
+.totalMovieContainer {
+  height: 100%;
+  width: 20%; 
+  position: fixed; 
+  top: 0; 
+  right: 0;
+  background-color: rgb(142, 142, 142); 
+  padding-top: 20px;
+
+}
+
+.movieItemContainer {
+  margin-right: 20%;
+  background-color: lightgray;
+  margin-top: 125px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.buttonFlex {
+  display: flex;
+  width: 100%;
+  height: 20%;
+}
+
+.moviePosterImage {
+  height: 300px;
+  width: 200px
+}
+
+.MovieItem {
+  width: 45%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-style: solid;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.LeftRightPair {
+  display: flex;
+  width: 100%
+}
+
+.MovieItemFlexLeft {
+  width: 60%
+}
+.MovieItemFlexRight {
+  width: 40%
+}
+
+h1 {
+  text-align: center;
+}
+
+.addToButton {
+  background-color: #198754;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.addToButton:hover {
+  background-color: #157347;
+}
+
+.removeButton {
+  background-color: #d62929;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.removeButton:hover {
+  background-color: #871919;
+}
+
